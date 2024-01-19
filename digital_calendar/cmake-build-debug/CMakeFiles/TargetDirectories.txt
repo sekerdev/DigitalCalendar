@@ -1,0 +1,3 @@
+C:/Users/Lenovo User/CLionProjects/calendar_of_the_year/cmake-build-debug/CMakeFiles/calendar_of_the_year.dir
+C:/Users/Lenovo User/CLionProjects/calendar_of_the_year/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo User/CLionProjects/calendar_of_the_year/cmake-build-debug/CMakeFiles/rebuild_cache.dir
